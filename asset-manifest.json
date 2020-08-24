@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-emptracker/static/css/main.196c74af.chunk.css",
+    "main.js": "/react-emptracker/static/js/main.9e17df2a.chunk.js",
+    "main.js.map": "/react-emptracker/static/js/main.9e17df2a.chunk.js.map",
+    "runtime-main.js": "/react-emptracker/static/js/runtime-main.26f544e5.js",
+    "runtime-main.js.map": "/react-emptracker/static/js/runtime-main.26f544e5.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/react-emptracker/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.945e5924.chunk.js": "/react-emptracker/static/js/2.945e5924.chunk.js",
+    "static/js/2.945e5924.chunk.js.map": "/react-emptracker/static/js/2.945e5924.chunk.js.map",
+    "index.html": "/react-emptracker/index.html",
+    "precache-manifest.f0b01244fb208edac0e997528aaea94b.js": "/react-emptracker/precache-manifest.f0b01244fb208edac0e997528aaea94b.js",
+    "service-worker.js": "/react-emptracker/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/react-emptracker/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.196c74af.chunk.css.map": "/react-emptracker/static/css/main.196c74af.chunk.css.map",
+    "static/js/2.945e5924.chunk.js.LICENSE.txt": "/react-emptracker/static/js/2.945e5924.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26f544e5.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.945e5924.chunk.js",
+    "static/css/main.196c74af.chunk.css",
+    "static/js/main.9e17df2a.chunk.js"
+  ]
+}
